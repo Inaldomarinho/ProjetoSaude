@@ -1,2 +1,2 @@
 # ProjetoSaude
-Repositório destinado a um projeto pessoal na área de saude utilizando sistema web ()
+Projeto ainda sendo planejado e em desenvolvimento. Em breve detalharei melhor e deixarei open source.
